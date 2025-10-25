@@ -1,9 +1,3 @@
-# SIIT Web-Complete-4 Collaborative Project
+# SIIT Web-complete -4 Colaborative Project
 
-A demo repo to showcase how git is used in team projects
-
-## Collaborators
-1. Claudiu Ciuca
-2. Marinela Pana
-3. Madalin Vlazan
-4. Ovidiu Martalogu
+A demo repo to showcase how git is used in them project
