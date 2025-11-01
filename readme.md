@@ -7,3 +7,4 @@ A demo repo to showcase how git is used in them project
 2. Marinela Pana
 3. Madalin Vlazan
 4. Ovidiu Martalogu
+5. Cristina Danalachi
